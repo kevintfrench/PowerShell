@@ -1,0 +1,1 @@
+slmgr -ipk YVJ8F-4N2QW-YJKFD-Y2TJW-QDCHP

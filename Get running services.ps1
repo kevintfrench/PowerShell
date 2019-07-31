@@ -1,0 +1,1 @@
+﻿Get-Service | Where {$_.status –eq 'running'} | sort Displayname
